@@ -1,4 +1,7 @@
 新增了一个新文件bbb.txt
+<<<<<<< HEAD
 修改了bbb.txt文件
 add public void aa(){}
 add public int aaa(){}
+=======
+>>>>>>> parent of 34e9764... 修改了bbb.txt文件
